@@ -4,4 +4,4 @@
 
 The Apple Developers Food Tracker is outdated and poorly structured. In this repo, Apple's Food tracker is implemented well structured, with its views divided into their corresponding storyboards and avoiding the use of segues.
 
-
+Link to the original example: https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html
